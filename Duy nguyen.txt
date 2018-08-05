@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 hello viet nam
 tôi d?n t? vi?t nam,hello world!
 i want 50 ty vnd
+=======
+>>>>>>> parent of 6dfa5ca... update file
